@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Casper&#39;s Blog</title>
   
-  
+  <subtitle>Life Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.casper7.top/"/>
   <updated>2018-07-03T14:32:32.072Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.casper7.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Casper</name>
     
   </author>
   
@@ -18,9 +18,9 @@
   
   <entry>
     <title>test blog</title>
-    <link href="http://yoursite.com/2018/07/03/test-blog/"/>
-    <id>http://yoursite.com/2018/07/03/test-blog/</id>
-    <published>2018-07-03T13:29:03.000Z</published>
+    <link href="http://www.casper7.top/2018/07/03/test-blog/"/>
+    <id>http://www.casper7.top/2018/07/03/test-blog/</id>
+    <published>2018-07-03T14:29:03.000Z</published>
     <updated>2018-07-03T14:32:32.072Z</updated>
     
     <summary type="html">
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/03/hello-world/"/>
-    <id>http://yoursite.com/2018/07/03/hello-world/</id>
+    <link href="http://www.casper7.top/2018/07/03/hello-world/"/>
+    <id>http://www.casper7.top/2018/07/03/hello-world/</id>
     <published>2018-07-03T09:50:03.835Z</published>
     <updated>2018-07-03T09:50:03.836Z</updated>
     
